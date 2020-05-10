@@ -1,0 +1,72 @@
+# Results
+Welcome to Hangman!
+There are multiple difficulty settings shown below:
+	1. Beginner (10 lives)
+	2. Intermediate (8 lives)
+	3. Expert (6 lives)
+	4. Advanced (4 lives)
+	5. Insane (2 lives)
+Please choose a difficulty by typing its number: 1
+
+You have chosen Beginner and will receive 10 lives.
+
+Time to guess a letter! You have 10 lives remaining.
+-------------
+Your guess: a
+
+Whoops! That letter was not found. You now have 9 lives remaining.
+-------------
+Your guess: e
+
+Good job! That letter was found. You still have 9 lives remaining.
+-----------e-
+Your guess: l
+
+Whoops! That letter was not found. You now have 8 lives remaining.
+-----------e-
+Your guess: i
+
+Good job! That letter was found. You still have 8 lives remaining.
+--------i-ie-
+Your guess: o
+
+Good job! That letter was found. You still have 8 lives remaining.
+o--o----i-ie-
+Your guess: u
+
+Good job! That letter was found. You still have 8 lives remaining.
+o--o--u-i-ie-
+Your guess: c
+
+Whoops! That letter was not found. You now have 7 lives remaining.
+o--o--u-i-ie-
+Your guess: k
+
+Whoops! That letter was not found. You now have 6 lives remaining.
+o--o--u-i-ie-
+Your guess: q
+
+Whoops! That letter was not found. You now have 5 lives remaining.
+o--o--u-i-ie-
+Your guess: p
+
+Good job! That letter was found. You still have 5 lives remaining.
+oppo--u-i-ie-
+Your guess: r
+
+Good job! That letter was found. You still have 5 lives remaining.
+oppor-u-i-ie-
+Your guess: t
+
+Good job! That letter was found. You still have 5 lives remaining.
+opportu-itie-
+Your guess: n
+
+Good job! That letter was found. You still have 5 lives remaining.
+opportunitie-
+Your guess: s
+
+<opportunities>  
+game won!
+
+Time to guess a letter! You have 5 lives remaining.
